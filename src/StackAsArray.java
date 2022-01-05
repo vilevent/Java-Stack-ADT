@@ -29,7 +29,6 @@ public class StackAsArray {
 		return this.top + 1;
 	}
 	
-	
 	/* Description: method Push will push the  
 	 * parameter value onto the StackAsArray.
 	 */
